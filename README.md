@@ -14,4 +14,14 @@ Where Managing Includes
 
 * Use of Primary Keys and SQL to avoid duplicate entries.
 
-#Video of System
+# Screenshots of System
+
+![alt text](https://i.ibb.co/F7CsDnG/1.png)
+![alt text](https://i.ibb.co/pjNyXYv/2.png)
+![alt text](https://i.ibb.co/CHvVgXc/3.png)
+![alt text](https://i.ibb.co/RYv3LMB/4.png)
+![alt text](https://i.ibb.co/xm6fPLL/6.png)
+![alt text](https://i.ibb.co/TKDNsZW/5.png)
+![alt text](https://i.ibb.co/KKX7xhY/7.png)
+![alt text](https://i.ibb.co/SRCympk/8.png)
+![alt text](https://i.ibb.co/Q8v98dx/9.png)
